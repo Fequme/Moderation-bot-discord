@@ -3689,7 +3689,7 @@ class Action(commands.Cog):
     @tasks.loop(seconds=60)
     async def checkwarns(self):
         await self.client.wait_until_ready()
-        guild = self.client.get_guild(890304318643785769)
+        guild = self.client.get_guild(config.SWEETNESS['GUILD_ID'])
         async for document in warns.find({}):
             try:
                 member = guild.get_member(document["id"])
@@ -3735,7 +3735,7 @@ class Action(commands.Cog):
     @tasks.loop(seconds=60)
     async def checkdocs(self):
         await self.client.wait_until_ready()
-        guild = self.client.get_guild(890304318643785769)
+        guild = self.client.get_guild(config.SWEETNESS['GUILD_ID'])
         async for document in collection.find({}):
             try:
                 if document['text'] is not None and document['text'] <= datetime.datetime.now():
@@ -3955,7 +3955,7 @@ class Action(commands.Cog):
     @commands.Cog.listener()
     async def on_member_join(self, member):
         await self.client.wait_until_ready()
-        guild = self.client.get_guild(890304318643785769)
+        guild = self.client.get_guild(config.SWEETNESS['GUILD_ID'])
         if await warns.find_one({"id": member.id}) is not None:
             async for document in warns.find({"id": member.id}):
                 typee = document['type']
