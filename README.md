@@ -43,7 +43,10 @@
 9. После кликаем на `Choose a connect method` ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/45c13a16-4f4e-461c-a837-7d2082ac369b)
 10. Выбираем Compass ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/7480988e-a89d-4f98-8d40-a25d075a4d14)
 11. Находим строку с именем вашего аккаунта и паролем или там будет `<password>` ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/1a7027e0-bc83-437c-acec-71238e6bed7b)
-12. Копируем и вставляем в проект. Готово
+12. Копируем и вставляем в проект.
+13. Заходим в эту вкладку ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/3fc71bf8-4f27-4b7c-b57f-199a736d1c5e)
+14. Далее добавляем `0.0.0.0/0` и удаляем свой айпи ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/a92650e7-bf5c-44bf-94a9-f39730036a0c)
+
 
 
 
