@@ -31,6 +31,7 @@
 
 
 # Гайд как получить MONGO_DB 
+примечание, используйте впн чтобы зайти на сайт с снг
 1. Зайдите на сайт [MongoDB](https://www.mongodb.com)
 2. Зарегистрируйтесь или авторизируйтесь на сайте
 3. Создайте новый проект ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/159f79da-9f3e-41e7-9ff6-bea137b61904)
@@ -39,7 +40,7 @@
 6. Дальше создаём кластер ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/80ab7502-ada1-480d-97fd-beae0e39e0bc)
 7. Берём бесплатный кластер и даём ему название ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/7b57ba8c-4c5e-407e-b34c-a7bf06e2e44e)
 8. Создаём кластер и придумываем никнейм пользователя и пароль, вводим и нажимаем `Create DataBase User` или что то подобное
-9. После кликаем на `Choose connect method` ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/45c13a16-4f4e-461c-a837-7d2082ac369b)
+9. После кликаем на `Choose a connect method` ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/45c13a16-4f4e-461c-a837-7d2082ac369b)
 10. Выбираем Compass ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/7480988e-a89d-4f98-8d40-a25d075a4d14)
 11. Находим строку с именем вашего аккаунта и паролем или там будет `<password>` ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/1a7027e0-bc83-437c-acec-71238e6bed7b)
 12. Копируем и вставляем в проект. Готово
