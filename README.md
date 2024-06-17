@@ -34,7 +34,7 @@
 примечание, используйте впн чтобы зайти на сайт с снг
 1. Зайдите на сайт [MongoDB](https://www.mongodb.com)
 2. Зарегистрируйтесь или авторизируйтесь на сайте
-3. Создайте новый проект ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/2a7a9e3a-169c-4ee0-9cc7-ebd8ddc9f0a3)
+3. Создайте новый проект ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/000eb5ba-a0ab-4c07-bc26-283cb0ab7142)
 4. Придумайте ему название и нажите `Next` ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/6f444d85-c023-4cf5-b986-6c41b621bf0c)
 5. Далее нажмите `Create Project` ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/82ff7686-0f68-4110-9eec-71ba6867b36b)
 6. Дальше создаём кластер ![image](https://github.com/Fequme/Moderation-bot-discord/assets/142742415/80ab7502-ada1-480d-97fd-beae0e39e0bc)
